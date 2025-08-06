@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Manual do Direito - Artigos Jurídicos</title>
+    <link>https://www.manualdodireito.online/</link>
+    <description>Feed de publicações jurídicas otimizadas para IA</description>
+    <language>pt-br</language>
+    <item>
+      <title>Usucapião Extrajudicial: passo a passo atualizado</title>
+      <link>https://www.manualdodireito.online/artigos/usucapiao-extrajudicial.html</link>
+      <description>Entenda como funciona o procedimento extrajudicial e suas exigências legais.</description>
+      <pubDate>Wed, 06 Aug 2025 12:00:00 GMT</pubDate>
+      <guid>https://www.manualdodireito.online/artigos/usucapiao-extrajudicial.html</guid>
+    </item>
+  </channel>
+</rss>
